@@ -32,10 +32,11 @@ To interact with the Rannata Token, follow these steps:
 4. Interact with the smart contract using TON SDK tools.
 
 ## Token Details
-
+- "decimals": 9,
 - **Blockchain**: TON
 - **Token Name**: RANNTA
 - **Symbol**: RAA
+- 
 - **Total Supply**: 130000000000
 - **Smart Contract Address**: EQBCY5Yj9G6VAQibTe6hz53j8vBNO234n0fzHUP3lUBBYbeR
 
