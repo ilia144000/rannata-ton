@@ -43,9 +43,9 @@ To interact with the Rannata Token, follow these steps:
 ## Additional Resources
 
 - Official Website: https://rannta.com/
-- GitHub Repository: https://github.com/ilia144000/rannata-ton](https://github.com/ilia144000/rannata-ton)
+- GitHub Repository: https://github.com/ilia144000/rannata-ton
 - TON Blockchain Explorer: https://tonscan.org/
-- Tonviewer: https://tonviewer.com
+- Tonviewer: https://tonviewer.com/EQBCY5Yj9G6VAQibTe6hz53j8vBNO234n0fzHUP3lUBBYbeR
 ---
 
 Stay tuned for updates and further developments on the Rannata ecosystem!
