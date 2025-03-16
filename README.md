@@ -36,16 +36,25 @@ To interact with the Rannata Token, follow these steps:
 - **Blockchain**: TON
 - **Token Name**: RANNTA
 - **Symbol**: RAA
-- 
 - **Total Supply**: 130000000000
 - **Smart Contract Address**: EQBCY5Yj9G6VAQibTe6hz53j8vBNO234n0fzHUP3lUBBYbeR
 
 ## Additional Resources
 
-- Official Website: https://rannta.com/
-- GitHub Repository: https://github.com/ilia144000/rannata-ton
-- TON Blockchain Explorer: https://tonscan.org/
-- Tonviewer: https://tonviewer.com/EQBCY5Yj9G6VAQibTe6hz53j8vBNO234n0fzHUP3lUBBYbeR
+- **Official Website**: [Rannata](https://rannta.com)
+- **GitHub Repository**: https://github.com/ilia144000/rannata-ton
+- **TON Blockchain Explorer**: https://tonscan.org/
+- **Tonviewer**: https://tonviewer.com/EQBCY5Yj9G6VAQibTe6hz53j8vBNO234n0fzHUP3lUBBYbeR
+- **YouTube**: [Rannata YouTube](http://www.youtube.com/@ranntacoin)
+- **X (Twitter)**: [Rannata on X](https://x.com/ranntacoin)
+- **Telegram**: [Rannata Telegram](https://t.me/ranntacoin2025)
+- **Discord**: [Rannata Discord](https://discord.gg/6qgSnrSC)
+- **Email**: rannatacoin@gmail.com
+
+## Description
+A memorial for the tragic Los Angeles fire. A symbol for rebuilding and returning to the glory of the United States.
+
 ---
 
 Stay tuned for updates and further developments on the Rannata ecosystem!
+
