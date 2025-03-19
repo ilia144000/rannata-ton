@@ -34,8 +34,8 @@ To interact with the Rannata Token, follow these steps:
 ## Token Details
 - "Decimals": 9,
 - **Blockchain**: TON
-- **Token Name**: RANNTA
-- **Symbol**: RAA
+- **Token Name**: RANNTA COIN
+- **Symbol**: RANNTA
 - **Total Supply**: 130000000000
 - **Smart Contract Address**: EQBCY5Yj9G6VAQibTe6hz53j8vBNO234n0fzHUP3lUBBYbeR
 
